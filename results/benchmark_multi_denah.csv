@@ -1,0 +1,11 @@
+Nama File,Karakteristik Gambar,Skala (px/m),Jumlah Ruangan Terdeteksi,Total Luas Lantai (m²),Panjang Dinding (m),IoU vs Ground Truth (%),Kemiripan Luas vs GT (%)
+denah1.png,Denah 1 (Asli X/1.png - 1950×1867),80.5,9,118.46,104.67,58.23,92.72
+denah2.png,Denah 2 (Asli X/2.png - 1318×1229),54.3,8,113.62,104.23,63.07,93.13
+denah3.png,Denah 3 (Asli X/3.png - 1298×1506),60.7,12,97.02,129.72,49.7,86.44
+denah4.png,Denah 4 (Asli X/4.png - 1027×1369),52.9,9,92.79,99.7,35.75,92.47
+denah5.png,Denah 5 (Asli X/5.png - 1479×1486),60.3,12,92.01,119.21,57.16,89.12
+denah6.png,Denah 6 (Asli X/8.png - 1621×1349),60.0,6,66.39,83.77,27.05,80.35
+denah7.png,Denah 7 (Asli X/9.png - 1943×1987),90.4,7,111.1,108.22,62.84,92.72
+denah8.png,Denah 8 (Asli X/10.png - 3508×2480),115.0,8,102.28,84.06,72.06,92.06
+denah9.png,Denah 9 (Asli X/14.png - 2480×3508),115.0,6,166.5,102.5,63.72,98.43
+denah10.png,Denah 10 (Asli X/13.png - 2479×3508),115.0,10,142.31,111.31,52.82,96.77

@@ -1,0 +1,13 @@
+kategori,id_material,nama_material,spesifikasi,satuan,isi_per_satuan,harga_satuan
+Keramik Lantai,keramik_30x30,Keramik Lantai Polos 30x30 cm,Ukuran 30x30 cm (0.09 m2/keping),keping,1,5500
+Keramik Lantai,keramik_40x40,Keramik Lantai Standar 40x40 cm,Ukuran 40x40 cm (0.16 m2/keping),keping,1,10500
+Keramik Lantai,keramik_50x50,Keramik Lantai Medium 50x50 cm,Ukuran 50x50 cm (0.25 m2/keping),keping,1,18500
+Keramik Lantai,keramik_60x60,Granit / Keramik 60x60 cm,Ukuran 60x60 cm (0.36 m2/keping),keping,1,32000
+Keramik Lantai,keramik_80x80,Granit Premium 80x80 cm,Ukuran 80x80 cm (0.64 m2/keping),keping,1,75000
+Cat Dinding,cat_standar_liter,Cat Dinding Interior Standar (Per Liter),Daya sebar ~10 m2/liter,liter,1,45000
+Cat Dinding,cat_premium_liter,Cat Dinding Interior Premium (Per Liter),Daya sebar ~12 m2/liter,liter,1,75000
+Cat Dinding,cat_ekonomis_liter,Cat Dinding Ekonomis (Per Liter),Daya sebar ~8 m2/liter,liter,1,28000
+Material Konstruksi Lanjutan,bata_merah,Batu Bata Merah Press,Kebutuhan ~70 buah/m2 dinding,buah,1,900
+Material Konstruksi Lanjutan,semen_50kg,Semen Portland (Sak 50 kg),Kebutuhan pasang & plester ~0.45 sak/m2,sak,50,68000
+Material Konstruksi Lanjutan,pasir_m3,Pasir Pasang / Plester,Kebutuhan pasang & plester ~0.045 m3/m2,m3,1,280000
+
